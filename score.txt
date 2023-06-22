@@ -1,0 +1,10 @@
+LM18	이푸른	3	skt	B0
+LM19	정한나	4	lgt	A0
+LM20	한재성	2	skt	C0
+LM21	김민철	2	skt	C+
+LM22	우진환	1	lgt	C0
+LM23	염휘건	1	kt	B+
+LM24	강은종	2	sk	B-
+LM25	김수빈	2	sk	D-
+LM26	이환희	1	kt	B0
+LM27	김태빈	4	kt	C0
